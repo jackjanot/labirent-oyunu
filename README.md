@@ -1,0 +1,1 @@
+bu oyunda amaç belirli sürede bitiş noktasına ulaşmak fakat bitiş noktasına ulaşırken bizi zorlayacak bazı engeller var örneğin durvarlara belirli çarpma sayımız var ve bu sınırı aşarsak oyun bitiyo en kısa sürede ve en az çarpışma saısyıyla oyunu bitirmek hedefimiz
